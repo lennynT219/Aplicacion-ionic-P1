@@ -1,0 +1,12 @@
+.ecuacion h3 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.input-ecuacion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  gap: 10px;
+}
